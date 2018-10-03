@@ -1,4 +1,4 @@
 # LogicaComputacional2019-1
-Funciones en Haskell y PROLOG 
+Algunas funciones en Haskell y PROLOG 
 
 
