@@ -9,7 +9,7 @@ En el PDF que esta en el repositorio, podras notar que hay ejemplos de como aseg
 salida 
 [1,3]
 ```
-En este repositorio podras encontrar funciones como remove, sort, insert, rmdup y otras mas.
+En este repositorio podras encontrar funciones en Haskell y Prolog. Todo lo que necesitas saber esta en los respectivos PDF's en las carpetas.
 
 
 
