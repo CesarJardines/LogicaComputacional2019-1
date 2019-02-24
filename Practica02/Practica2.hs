@@ -3,7 +3,6 @@ import LProp
 import Data.List
 
 --Jardines Mendoza César Eduardo 
---314071549
 
 -- Alias de tipos: Sólo sirve para referirnos
 -- a un tipo existente por un nuevo nombre, 
