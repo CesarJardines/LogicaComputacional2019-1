@@ -1,6 +1,7 @@
 -- @author Jardines Mendoza César Eduardo --
--- @version 1.0 --
--- Logica Computacional Practica 1 --
+-- @version 2.0 --
+-- Logica Computacional 2019-1 --
+-- Practica 1  Facultad de Ciencias UNAM--
 
 --1.- Remove --
 -- >rm 2[1,2,3] => [1,3] --
