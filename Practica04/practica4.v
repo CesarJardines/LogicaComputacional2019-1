@@ -1,5 +1,4 @@
 (*/C\u00e9sar Eduardo Jardines Mendoza
-Numero de cuenta :314071549
 *)
 
 
